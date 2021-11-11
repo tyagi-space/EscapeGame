@@ -5,7 +5,7 @@ screen_size = (360, 500)
 screen = pygame.display.set_mode(screen_size)
 
 background = pygame.image.load('background.png')
-Heart = pygame.image.load('Chicken.png')
+Heart = pygame.image.load('chicken.png')
 user = pygame.image.load('user.png')
 
 pygame.font.init()
